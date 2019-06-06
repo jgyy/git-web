@@ -1,0 +1,22 @@
+{
+  "name": "git-web",
+  "version": "1.0.0",
+  "description": "personal udemy git practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgyy/git-web.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "jgyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgyy/git-web/issues"
+  },
+  "homepage": "https://github.com/jgyy/git-web#readme"
+}
